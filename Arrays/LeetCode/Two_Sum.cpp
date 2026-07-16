@@ -1,4 +1,4 @@
-// Two sum leetcode problem
+// Leetcode problem : 01 (Two Sum)
 
 #include <vector>
 #include <unordered_map>
@@ -21,3 +21,4 @@ public:
 };
 
 //Using hashmap reduces the time complexity from O(n^2) to O(1) which is the optimal solution
+
